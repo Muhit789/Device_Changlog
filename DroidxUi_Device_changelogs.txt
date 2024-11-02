@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 7 Pro (violet)
+Device maintainer: Mohiuddin Ahmed
+======2nd November, 2024=====
+- Intial Unofficial Build
+- Added Xiaomi Doly
+- Update gps blobs to LA.UM.9.15.2.r1-10100-KAMORTA.QSSI14.0
+- Speed profile services and wifi-service to reduce RAM and storage
+- Increase ZRAM to 3GB
